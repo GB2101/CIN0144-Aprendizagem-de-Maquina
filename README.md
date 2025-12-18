@@ -1,1 +1,1 @@
-# CIN0144---Aprendizagem-de-M-quina
+# CIN0144-Aprendizagem-de-Maquina
